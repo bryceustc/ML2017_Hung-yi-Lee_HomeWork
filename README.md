@@ -7,7 +7,7 @@
 
 **NTU Mechine Learning 2017 Spring and Fall total Homework** 
 
-- [HomWork0 Prerequisite](https://github.com/maplezzz/ML2017S_Hung-yi-Lee_HW/tree/master/HW0)
+- [HomWork0 Prerequisite](https://github.com/Everglowww/ML2017_Hung-yi-Lee_HomeWork/tree/master/HomeWork0)
   - 矩阵乘法  
   - 图像提取  
   
