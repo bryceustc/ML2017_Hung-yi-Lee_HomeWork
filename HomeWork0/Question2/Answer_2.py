@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 #! -*- coding=utf-8 -*-
 # Project:  Machine Learning
-# Date: 9/24/18
+# Date: 9/22/18
 # Author: bryce
 from PIL import Image
 from PIL import ImageChops
