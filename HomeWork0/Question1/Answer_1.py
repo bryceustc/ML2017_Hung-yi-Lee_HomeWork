@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #! -*- coding=utf-8 -*-
-# Project:  ML
+# Project:  Machine Learning
 # Date: 9/21/18
 # Author: bryce
 import numpy as np
