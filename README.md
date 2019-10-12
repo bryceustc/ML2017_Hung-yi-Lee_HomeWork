@@ -12,7 +12,7 @@
   - 图像提取  
   
   
-- [HomeWork1 PM2.5 Prediction](https://github.com/maplezzz/ML2017S_Hung-yi-Lee_HW/tree/master/HW1)  
+- [HomeWork1 PM2.5 Prediction](https://github.com/Everglowww/ML2017_Hung-yi-Lee_HomeWork/tree/master/HomeWork1)  
   - linear regression   
 
 - [HomeWork2 Income Prediction](https://github.com/maplezzz/ML2017S_Hung-yi-Lee_HW/tree/master/HW2)   
