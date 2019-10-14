@@ -3,16 +3,15 @@
 # Date: 9/21/19
 # Author: bryce
 
+import os
 import sys
 import math
-import csv,os
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import scipy.io as scio
 from numpy.linalg import inv
 import matplotlib.pyplot as plt
-from sklearn.preprocessing import StandardScaler
 
 def AdaGrad(X,Y,w,eta,iteration, lambdaL2):
 	s_grad = np.zeros(len(X[0]))
